@@ -44,7 +44,3 @@ The dataset includes Netflix title information such as type, title, director, co
 - TV-MA appears as one of the most common rating categories.
 - The dashboard helps quickly explore Netflix content patterns.
 
-## Project Preview
-
-![Netflix Dashboard](Visual/netflix_dashboard.png)
-
