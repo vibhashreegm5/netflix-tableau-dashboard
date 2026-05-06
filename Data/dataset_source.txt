@@ -1,0 +1,5 @@
+Dataset: Netflix Movies and TV Shows
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+This dataset was used for educational and portfolio purposes.
